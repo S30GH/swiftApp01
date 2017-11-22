@@ -3,7 +3,7 @@
 //  Swift App
 //
 //  Created by Marcus Lindström on 2017-11-17.
-//  Copyright © 2017 Marcus Lindström. All rights reserved.
+//  Copyright © 2017 Marcus Lindström. All rights reserved..
 //
 
 import UIKit
